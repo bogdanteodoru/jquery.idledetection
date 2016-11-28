@@ -1,0 +1,24 @@
+{
+  "name": "jquery.idledetection",
+  "main": "jquery.idledetection.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bogdanteodoru/jquery.idledetection",
+  "authors": [
+    "Bogdan Teodoru <me@bogdanteodoru.com>"
+  ],
+  "description": "jQuery plugin that detects when user went idle based on mouse movement, window focus and document.hasFocus().",
+  "keywords": [
+    "jquery",
+    "idle",
+    "detection",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
