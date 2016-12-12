@@ -1,7 +1,7 @@
 {
   "name": "jquery.idledetection",
   "main": "jquery.idledetection.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/bogdanteodoru/jquery.idledetection",
   "authors": [
     "Bogdan Teodoru <me@bogdanteodoru.com>"

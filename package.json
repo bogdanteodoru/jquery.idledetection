@@ -1,6 +1,6 @@
 {
   "name": "jquery.idledetection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery plugin that detects when user went idle based on mouse movement, window focus and document.hasFocus().",
   "main": "jquery.idledetection.js",
   "scripts": {
